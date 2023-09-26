@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**saraardila/saraardila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">¡Hola! soy Sara🌱👋</h1>
+<h3 align="center">Una desarrolladora junior con muchas ganas de aprender! </h3>
 
-Here are some ideas to get you started:
+![image](https://github.com/saraardila/saraardila/assets/82755257/2d7b527f-699d-41f1-9527-d7f49238d454)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 Actualmente estoy desarrollando proyectos en Kotlin y creando mi portfolio
+
+- 🌱 También estoy aprendiendo a desarrollar páginas web en otros lenguajes
+  
+- 👯 Tengo experiencia como back-end con PL/SQL y Oracle y también como front-end en diferentes lenguajes
+
+- 📫 Contacto: saraardila.contacto@gmail.com
+
+- ⚡ ¿Qué me gusta hacer cuando no programo?  Me encanta la fotograía, leer, viajar, el pilates y los animales 🐶
+
+<h3 align="center">Puedes encontrarme en LinkedIn:</h3>
+<div align="center">
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/lauro_brant-1/](https://www.linkedin.com/in/sara-ardila/))
+  
+</div>
+
