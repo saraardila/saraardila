@@ -15,6 +15,9 @@
 
 - ⚡ ¿Qué me gusta hacer cuando no programo?  Me encanta la fotograía, leer, viajar, el pilates y los animales 🐶
 
+
+<h3 align="center">Skills:</h3>
+
 <h3 align="center">Puedes encontrarme en LinkedIn:</h3>
 <div align="center">
 
