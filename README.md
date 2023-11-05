@@ -1,15 +1,15 @@
 
 <h1 align="center">¡Hola! soy Sara🌱👋</h1>
-<h3 align="center">Una desarrolladora junior con muchas ganas de aprender! </h3>
+<h3 align="center">Desarrolladora Mobile and Front-End | Android Kotlin | React </h3>
 
 ![image](https://github.com/saraardila/saraardila/assets/82755257/2d7b527f-699d-41f1-9527-d7f49238d454)
 
 
-- 🔭 Actualmente estoy desarrollando proyectos en Kotlin y creando mi portfolio
+- 🔭 Actualmente estoy desarrollando proyectos en Kotlin que se pueden ver en mi portfolio.
 
-- 🌱 También estoy aprendiendo a desarrollar páginas web en otros lenguajes
+- 🌱 También estoy aprendiendo a desarrollar páginas web en otros lenguajes.
   
-- 👯 Tengo experiencia como back-end con PL/SQL y Oracle y también como front-end en diferentes lenguajes
+- 👯 Tengo experiencia como back-end con PL/SQL y Oracle y también como front-end en diferentes lenguajes.
 
 - 📫 Contacto: saraardila.contacto@gmail.com
 
