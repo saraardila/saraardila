@@ -2,7 +2,8 @@
 <h1 align="center">¡Hola! soy Sara🌱👋</h1>
 <h3 align="center">Desarrolladora Mobile and Front-End | Android Kotlin | React </h3>
 
-![image](https://github.com/saraardila/saraardila/assets/82755257/2d7b527f-699d-41f1-9527-d7f49238d454)
+![image](https://github.com/saraardila/saraardila/assets/82755257/49e02f89-e4d5-4df0-af4e-a4ee3861d1e5)
+
 
 
 - 🔭 Actualmente estoy desarrollando proyectos en Kotlin que se pueden ver en mi portfolio.
