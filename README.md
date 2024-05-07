@@ -5,12 +5,15 @@
 ![image](https://github.com/saraardila/saraardila/assets/82755257/49e02f89-e4d5-4df0-af4e-a4ee3861d1e5)
 
 
+- 💼 Mi actual trabajo es desarrolladora Android.
 
 - 🔭 Actualmente estoy desarrollando proyectos en Kotlin que se pueden ver en mi portfolio.
 
 - 🌱 También estoy aprendiendo a desarrollar páginas web en otros lenguajes.
   
-- 👯 Tengo experiencia como back-end con PL/SQL y Oracle y también como front-end en diferentes lenguajes.
+- 👯 Tengo experiencia como android developer, back-end con PL/SQL y Oracle y también como front-end en diferentes lenguajes.
+  
+- 🖌️ Además me he dedicado 5 años a la fotografía y el diseño. ¡Por lo que diseño mis propias apps! 
 
 - 📫 Contacto: saraardila.contacto@gmail.com
 
