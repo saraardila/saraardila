@@ -1,34 +1,62 @@
+<h1 align="center">¡Hola! Soy Sara 🌱👋</h1>
+<h3 align="center">Android Developer with UX Mindset | Kotlin | Jetpack Compose | MVVM</h3>
 
-<h1 align="center">¡Hola! soy Sara🌱👋</h1>
-<h3 align="center">Desarrolladora Mobile and Front-End | Android Kotlin | React </h3>
-
-![image](https://github.com/saraardila/saraardila/assets/82755257/49e02f89-e4d5-4df0-af4e-a4ee3861d1e5)
-
-
-- 💼 Mi actual trabajo es desarrolladora Android.
-
-- 🔭 Actualmente estoy desarrollando proyectos en Kotlin que se pueden ver en mi portfolio.
-
-- 🌱 También estoy aprendiendo a desarrollar páginas web en otros lenguajes.
-  
-- 👯 Tengo experiencia como android developer, back-end con PL/SQL y Oracle y también como front-end en diferentes lenguajes.
-  
-- 🖌️ Además me he dedicado 5 años a la fotografía y el diseño. ¡Por lo que diseño mis propias apps! 
-
-- 📫 Contacto: saraardila.contacto@gmail.com
-
-- ⚡ ¿Qué me gusta hacer cuando no programo?  Me encanta la fotograía, leer, viajar, el pilates y los animales 🐶
-
-
-
-<h3 align="center">Puedes encontrarme en LinkedIn:</h3>
-<div align="center">
-
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-ardila/)
-  
-</div>
-
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=saraardila&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraardila&theme=react&layout=compact" />
+<p align="center">
+  <img src="https://github.com/saraardila/saraardila/assets/82755257/49e02f89-e4d5-4df0-af4e-a4ee3861d1e5" />
 </p>
+
+---
+
+💼 Actualmente trabajo como **Android & Web Developer**, desarrollando aplicaciones nativas modernas con foco en rendimiento, escalabilidad y experiencia de usuario.
+
+🚀 Me especializo en **desarrollo Android con Kotlin y Jetpack Compose**, aplicando principios de Clean Architecture y MVVM para construir aplicaciones mantenibles y bien estructuradas.
+
+🎨 Mi enfoque diferencial: combino desarrollo y diseño.  
+Actualmente estoy cursando un **Certificado en UX Design**, reforzando mi capacidad para crear productos centrados en el usuario, no solo técnicamente sólidos.
+
+---
+
+## 💻 Tech Stack
+
+### 📱 Mobile
+- Kotlin  
+- Jetpack Compose  
+- Android Jetpack (ViewModel, LiveData, Navigation, Room)  
+- MVVM & Clean Architecture  
+- Coroutines · Retrofit · Dagger Hilt  
+
+### 🌐 Web
+- Angular  
+- React  
+- HTML5 · CSS3 · JavaScript  
+
+### 🔗 Backend & Tools
+- RESTful APIs  
+- PL/SQL · Oracle  
+- Firebase  
+- Git · Gradle  
+
+### 🎨 UX & Design
+- Figma (prototypado, wireframes, design systems)  
+- UX fundamentals & user-centered design  
+- Photoshop · Illustrator · Lightroom  
+
+---
+
+## 🌍 Lo que me define
+
+- 📱 Desarrollo apps nativas con foco en arquitectura limpia  
+- 🧩 Refactorización y modernización (Java → Kotlin)  
+- 🎯 Integración de APIs RESTful  
+- 🎨 Diseño de interfaces funcionales y centradas en el usuario  
+- 🧠 Mentalidad UX aplicada al desarrollo mobile  
+
+---
+
+📫 **Contacto**  
+📩 saraardila.contacto@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/sara-ardila/
+
+---
+
+⚡ Cuando no programo: fotografía, leer, viajar, pilates y animales 🐶
