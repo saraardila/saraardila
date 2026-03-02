@@ -2,7 +2,7 @@
 <h3 align="center">Android Developer with UX Mindset | Kotlin | Jetpack Compose | MVVM</h3>
 
 <p align="center">
-  <img src="https://github.com/saraardila/saraardila/assets/82755257/49e02f89-e4d5-4df0-af4e-a4ee3861d1e5" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/45f21a66-3101-4b90-88ff-9c7abc7b4650" />
 </p>
 
 ---
